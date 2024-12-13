@@ -1,0 +1,2 @@
+# Cloudflare_trojan
+自己优化的Cloudflare_trojan优选ip
